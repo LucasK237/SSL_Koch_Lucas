@@ -1,1 +1,1 @@
-Esta carpeta posee dos archivos en los que se puede imprimir la frase "Hola mundo"
+Esta carpeta posee dos archivos en los que se puede imprimir "Hola Mundo"
